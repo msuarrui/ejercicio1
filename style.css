@@ -1,0 +1,40 @@
+.header {
+    background-color:palegoldenrod;
+    padding: 10px;
+}
+
+.column1 {
+    width: 25%;
+}
+
+.column2 {
+    width: 70%;
+}
+
+div, aside, footer{
+    float: left;
+}
+
+aside{
+    background-color: rgb(255, 195, 195);
+    width: 100%;
+    padding: 10px;
+    height: 110px;
+}
+footer {
+    background-color: azure;
+    height: 70px;
+    width: 100%;
+    padding: 10px;
+}
+
+#main {
+    background-color: aquamarine;
+    height: 150px;
+    width: 100%;
+    padding: 10px;
+}
+
+.row {
+    width: 100%;
+}
